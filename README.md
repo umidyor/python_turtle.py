@@ -3,7 +3,8 @@ This project uses a library that allows you to create different forms in python!
 if you try to use these codes in 'pycharm' or any other complier, you will get plots like this! I'll show you what kind of drawing will be produced by the codes in each file with the file name!
 
 Turtle👇👇👇
-![Uploading Снимок экрана 2022-08-03 в 13.27.43.png…]()
+<img width="1528" alt="Снимок экрана 2022-08-03 в 13 27 43" src="https://user-images.githubusercontent.com/106219812/182569743-8c674527-038d-415b-bd97-32821e6a6811.png">
+
 
 
 Turtle(2)👇👇👇
