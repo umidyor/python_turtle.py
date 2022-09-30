@@ -2,6 +2,10 @@
 This project uses a library that allows you to create different forms in python!
 if you try to use these codes in 'pycharm' or any other complier, you will get plots like this! I'll show you what kind of drawing will be produced by the codes in each file with the file name!
 
+Coronavirus_picture_turtle👇👇👇
+<img width="830" alt="Снимок экрана 2022-09-30 в 17 56 38" src="https://user-images.githubusercontent.com/106219812/193274603-4de9082e-e573-45dd-ace8-cbd7d5319d14.png">
+
+
 Turtle👇👇👇
 <img width="1528" alt="Снимок экрана 2022-08-03 в 13 27 43" src="https://user-images.githubusercontent.com/106219812/182569743-8c674527-038d-415b-bd97-32821e6a6811.png">
 
